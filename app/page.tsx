@@ -9,7 +9,7 @@ export default function Home() {
         <h1 className="text-2xl text-center lg:text-5xl font-bold text-primary">
           Site is Under Construction
         </h1>
-        <a href="wa.me/+919277064303"><Button /></a>
+        <a href="https://forms.gle/LtLjxtBav4i3Ednh7" target="_blank"><Button /></a>
 
       </div>
       <div>
