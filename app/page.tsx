@@ -1,11 +1,5 @@
 import Button from "@/components/Button";
 import Image from "next/image";
-import type { Metadata } from "next";
-
-export const metadata: Metadata = {
-  title: "CodSpark - Sparking the Future of Technology",
-  description: "We provide website development, SEO and IT services.",
-};
 
 
 export default function Home() {
